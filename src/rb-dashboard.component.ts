@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+
 import { RbListService } from 'rb-list-service';
 
 @Component({
